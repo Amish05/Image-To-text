@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109276712216",
+    "project_id": "pictotxt-98a85",
+    "storage_bucket": "pictotxt-98a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109276712216:android:c77c6e8d2604bd7c58226d",
+        "android_client_info": {
+          "package_name": "com.example.pictotxt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC30BubzLk7n6H4WlbQVT_f557glLnwPkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
